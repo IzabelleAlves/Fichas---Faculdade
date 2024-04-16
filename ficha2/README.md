@@ -18,8 +18,7 @@ Nível 2
 8. Dados quatro notas, computar e classificar o valor da média das notas de um  estudante como aprovado (> 6), reprovado (< 4) e recuperação (caso contrário);
 9. Dada a temperatura, classificá-la como fria (< 15), quente (> 30) e normal (caso contrário);
 10. Computar o Índice de Massa Corporal (peso dividido pelo quadrado da altura) e classificar o resultado entre magreza (inferior a 18.5), saudável (entre 18.5 e 25), sobrepeso (acima de 25);
-11. Dado o dia da semana, imprime as aulas que os estudantes do primeiro semestre terão no dia;
+11. Dado o dia da semana, imprimir as aulas que os estudantes do primeiro semestre terão no dia;
 12. Converter o dia da semana (string) em um valor numérico (“domingo” -> 0, “segunda” -> 1, etc.);
-13. Converter texto em um número inteiro (“um” -> 1, “dois” -> 2, até o número “cinco”);
-14. Traduzir os pronomes (I, you, he, she, it, we e they) do Inglês para o Português;
-15. Dado o nome de um dos integrantes da sua sala, imprimir o sobrenome da pessoa (ao menos 3 pessoas).
+13. Traduzir os pronomes (I, you, he, she, it, we e they) do Inglês para o Português;
+14. Dado o nome de um dos integrantes da sua sala, imprimir o sobrenome da pessoa (ao menos 3 pessoas).
