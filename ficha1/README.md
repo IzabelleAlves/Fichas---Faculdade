@@ -1,4 +1,4 @@
-lista de exercícios.
+lista de exercícios -Operadores, tipos e variáveis
 
 Nível 1
 
