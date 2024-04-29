@@ -21,3 +21,4 @@ Nível 3 (Desafios)
 Implementar um programa capaz de:
 
 11. Testar se um número é primo utilizando apenas funções (não é permitido o uso de laços).
+12. Dados três números, encontrar qual deles é o mais próximo da média aritmética dos mesmos.
