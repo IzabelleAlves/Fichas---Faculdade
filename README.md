@@ -1,2 +1,1 @@
-Aqui adicionarei todas as atividades e fichas de revisão passadas pelo professor da faculdade. 
-A finalidade é organizar os códigos e facilitar o momento da revisão, uma vez que posso acessar de qualquer lugar o Github e os códigos que estão nele.
+
