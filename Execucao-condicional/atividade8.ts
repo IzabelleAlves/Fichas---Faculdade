@@ -2,12 +2,12 @@
 média das notas de um  estudante como aprovado (> 6), reprovado (< 4) 
 e recuperação (caso contrário);*/
 
-let notaJoao = 10
+let notaJoao: number = 10;
 
 if (notaJoao < 4) {
-    console.log('Reprovado!')
+  console.log("Reprovado!");
 } else if (notaJoao > 4 && notaJoao < 6) {
-    console.log('Recuperação')
+  console.log("Recuperação");
 } else {
-    console.log('Aprovado!!')
+  console.log("Aprovado!!");
 }

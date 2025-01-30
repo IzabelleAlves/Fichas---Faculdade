@@ -1,28 +1,28 @@
 //Dado o dia da semana, imprimir as aulas que os estudantes do primeiro semestre terão no dia;
 
-let diaDaSemana = 'terça feira'
-diaDaSemana = diaDaSemana.toLowerCase().trim() 
+let diaDaSemana: string = "terça feira";
+diaDaSemana = diaDaSemana.toLowerCase().trim();
 // toLowerCase() para garantir que a comparação não seja sensível a maiúsculas/minúsculas.
 // trim() para evitar problemas com entradas que contenham espaços adicionais.
 
 switch (diaDaSemana) {
-    case 'segunda feira':
-    console.log('Aula de: Matématica e português')
+  case "segunda feira":
+    console.log("Aula de: Matématica e português");
     break;
-    case 'terça feira':
-    console.log('Aula de: Inglês e física')
+  case "terça feira":
+    console.log("Aula de: Inglês e física");
     break;
-    case 'quarta feira':
-    console.log('Aula de: italiano e francês')
+  case "quarta feira":
+    console.log("Aula de: italiano e francês");
     break;
-    case 'quinta feira':
-    console.log('Aula de: História e geofrafia')
+  case "quinta feira":
+    console.log("Aula de: História e geofrafia");
     break;
-    case 'sexta feira':
-    console.log('Aula de: Biologia e ciências')
+  case "sexta feira":
+    console.log("Aula de: Biologia e ciências");
     break;
-    default:
-        console.log('Dia inválido');
+  default:
+    console.log("Dia inválido");
 }
 
 //ou usando if else
